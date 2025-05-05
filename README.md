@@ -14,9 +14,9 @@ Ich dokumentiere hier Woche für Woche meinen Fortschritt, Lerninhalte, genutzte
 
 ## 📘 Lernressourcen
 
-- [Microsoft Learn – Azure Fundamentals](https://www.udemy.com/course/az-900-azure-fundamental/?couponCode=LETSLEARNNOW)
-- Udemy: AZ-900 Kurs von Nikolai Schuler
-- YouTube: AZ-900 Einführungsvideos (Deutsch)
+- [Microsoft Learn – Azure Fundamentals](https://learn.microsoft.com/de-de/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+- [Udemy: AZ-900 Kurs von Nikolai Schuler](https://www.udemy.com/course/az-900-azure-fundamental/?couponCode=LETSLEARNNOW)
+- [YouTube: AZ-900 Einführungsvideos (Deutsch)] (https://www.youtube.com/results?search_query=az-900+deutsch)
 
 ## 💻 Mini-Projekte
 
