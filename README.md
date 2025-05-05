@@ -14,7 +14,7 @@ Ich dokumentiere hier Woche für Woche meinen Fortschritt, Lerninhalte, genutzte
 
 ## 📘 Lernressourcen
 
-- Microsoft Learn – Azure Fundamentals [google.ch]
+- [Microsoft Learn – Azure Fundamentals](https://daringfireball.net/projects/markdown/)
 - Udemy: AZ-900 Kurs von Nikolai Schuler
 - YouTube: AZ-900 Einführungsvideos (Deutsch)
 
