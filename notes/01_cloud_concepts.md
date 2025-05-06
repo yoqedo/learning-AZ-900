@@ -13,6 +13,7 @@
 | Begriff | Bedeutung |
 |--------|-----------|
 | Cloud Computing | Bereitstellung von IT-Ressourcen über das Internet (on-demand) |
+| Basic Services | Compute Power und Storage |
 | IaaS | Infrastructure as a Service – virtuelle Maschinen, Netzwerke, Speicher |
 | PaaS | Platform as a Service – Entwicklungsplattformen (z. B. Azure App Services) |
 | SaaS | Software as a Service – nutzbare Anwendungen (z. B. Microsoft 365) |

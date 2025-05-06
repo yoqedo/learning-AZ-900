@@ -1,0 +1,4 @@
+## Glossar
+
+| Begriff | Bedeutung |
+|--------|-----------|
