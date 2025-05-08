@@ -2,9 +2,12 @@
 
 ## 🧠 Lernziele
 
-- Verständnis der Grundlagen von Cloud Computing
-- Unterscheidung zwischen IaaS, PaaS, SaaS
-- Cloud-Bereitstellungsmodelle: Public, Private, Hybrid
+- Definition von Cloud Computing
+- Grundlegendes zum Modell der geteilten Verantwortung
+- Definition von Cloudmodellen wie öffentlich, privat und hybrid
+- Ermitteln geeigneter Anwendungsfälle für verschiedene Cloudmodelle
+- Beschreiben Sie das verbrauchsbasierte Modell.
+- Vergleich von Preismodellen für die Cloud
 
 ---
 

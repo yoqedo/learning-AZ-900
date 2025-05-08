@@ -8,7 +8,7 @@ Ich dokumentiere hier Woche für Woche meinen Fortschritt, Lerninhalte, genutzte
 | Woche | Thema                             | Status | Notizen |
 |-------|------------------------------------|--------|---------|
 | 1     | Cloud-Konzepte & Azure Überblick   | ⬜      |         |
-| 2     | Azure-Dienste & Infrastruktur      | ⬜      |         |
+| 2     | Azure-Dienste & Architektur      | ⬜      |         |
 | 3     | Sicherheit, Compliance, Governance | ⬜      |         |
 | 4     | Kostenmanagement & Prüfungsvorbereitung | ⬜      |         |
 
