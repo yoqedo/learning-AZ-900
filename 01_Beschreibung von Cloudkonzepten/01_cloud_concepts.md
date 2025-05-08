@@ -16,11 +16,12 @@
 | Begriff | Bedeutung |
 |--------|-----------|
 | Cloud Computing | Bereitstellung von IT-Ressourcen über das Internet (on-demand) |
+| Verantwortlichkeit | [Verantwortung zwischen Cloudanbieter und Verbraucher](https://learn.microsoft.com/de-de/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg) |
 | Basic Services | Compute Power und Storage |
 | IaaS | Infrastructure as a Service – virtuelle Maschinen, Netzwerke, Speicher |
 | PaaS | Platform as a Service – Entwicklungsplattformen (z. B. Azure App Services) |
 | SaaS | Software as a Service – nutzbare Anwendungen (z. B. Microsoft 365) |
-| Verantwortlichkeit | [Verantwortung zwischen Cloudanbieter und Verbraucher](https://learn.microsoft.com/de-de/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg) |
+
 
 ---
 
